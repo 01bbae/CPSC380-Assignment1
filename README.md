@@ -1,6 +1,6 @@
 # CPSC380 Assignment 1 File Information Status
 
-## Sumbitter
+## Submitter
 
 Name: BJ Bae
 
